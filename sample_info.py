@@ -30,4 +30,4 @@ Here you can search files in inline mode. Just press follwing buttons and start 
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
-INVITE_MSG = 'Please join @.... to use this bot'
+INVITE_MSG = 'Please join @Movie_Storage1 to use this bot'
